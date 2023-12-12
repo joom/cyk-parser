@@ -1,0 +1,35 @@
+S NP VP
+NP Det Adj NBar
+NP Det NBar
+NP NBar
+NP NP PP
+NBar N NBar
+NBar N
+PP Prep NP
+VP V
+VP V NP
+VP V NP NP
+VP V NP PP
+VP VP PP
+Prep with
+Prep on
+Prep in
+Prep at
+Prep like
+Adj green
+Adj light
+N light
+N car
+N cars
+N truck
+N man
+N baby
+Det the
+Det a
+V fly
+V hit
+V gave
+V put
+V like
+COMP that
+CONJ and
